@@ -1,0 +1,29 @@
+#questions-index-container {
+  max-width: 400px;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+.index-container {
+  font-weight: bold;
+  width: 20px;
+  height: 20px;
+  background-color: #fcf5c3;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  border-radius: 20%;
+}
+.right-answer {
+  background-color: #4abea7;
+}
+
+.wrong-answer {
+  background-color: #f44336;
+}
+
+.highlighted {
+  outline: 4px rgb(233, 140, 47) solid;
+}

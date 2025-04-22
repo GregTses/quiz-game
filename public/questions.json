@@ -1,0 +1,93 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which song made by MAN WITH A MISSION was used as the opening for the anime &quot;Log Horizon&quot;?",
+      "correct_answer": "&quot;Database&quot;",
+      "incorrect_answers": [
+        "&quot;Dead End in Tokyo&quot;",
+        "&quot;Raise Your Flag&quot;",
+        "&quot;Out of Control&quot;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What is the English title of the vaporwave track &quot;\u30ea\u30b5\u30d5\u30e9\u30f3\u30af420 / \u73fe\u4ee3\u306e\u30b3\u30f3\u30d4\u30e5\u30fc&quot; by Macintosh Plus (Vektroid)?",
+      "correct_answer": "Lisa Frank 420 / Modern Computing",
+      "incorrect_answers": [
+        "Smoke Weed 420 / Everyday",
+        "Make Your Move 420 / My Mind",
+        "It&#039;s All In Your Head 420 / Understand"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+      "correct_answer": "Hemocyanin",
+      "incorrect_answers": ["Cytochrome", "Iron", "Methionine"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+      "correct_answer": "Copper",
+      "incorrect_answers": ["Iron", "Nickel", "Silver"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Which race enjoys a glass of warm baghol in &quot;Star Trek&quot;?",
+      "correct_answer": "Klingon",
+      "incorrect_answers": ["Vulcan", "Human", "Botha"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
+      "correct_answer": "Snare Drum",
+      "incorrect_answers": ["Cow Bell", "Bass Drum", "Maraca"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "Paul McCartney has always used his middle name. What is his real first name? ",
+      "correct_answer": "James",
+      "incorrect_answers": ["John", "Jack", "Justin"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which artist collaborated with American DJ Dillon Francis to release the song 2016 &quot;Need You&quot;?",
+      "correct_answer": "NGHTMRE",
+      "incorrect_answers": ["LOUDPVCK", "KRNE", "DVBBS"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What is the main character of Metal Gear Solid 2?",
+      "correct_answer": "Raiden",
+      "incorrect_answers": ["Solidus Snake", "Big Boss", "Venom Snake"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+      "correct_answer": "Aphie",
+      "incorrect_answers": ["Flik", "Hopper", "Dot"]
+    }
+  ]
+}
